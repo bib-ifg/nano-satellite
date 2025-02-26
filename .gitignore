@@ -1,6 +1,6 @@
 # code base
-/yamcs-5.10.9
-/yamcs-studio-1.7.6
+/myproject/yamcs-5.10.9/*
+/myproject/yamcs-studio-1.7.6/*
 
 # Eclipse metadata
 /.settings/

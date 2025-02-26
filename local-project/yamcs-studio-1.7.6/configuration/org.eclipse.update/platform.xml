@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1728296331299" transient="false">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.yamcs.studio.editor.feature" version="1.7.6" url="features/org.yamcs.studio.editor.feature_1.7.6/">
+		</feature>
+		<feature id="org.yamcs.studio.core.feature" version="1.7.6" url="features/org.yamcs.studio.core.feature_1.7.6/" plugin-identifier="org.yamcs.studio.core">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.37.0.v20240203-0859" url="features/org.eclipse.emf.ecore_2.37.0.v20240203-0859/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.31.0.v20240314-0928" url="features/org.eclipse.emf.common_2.31.0.v20240314-0928/">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.32.0.v20240601-0610" url="features/org.eclipse.rcp_4.32.0.v20240601-0610/">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.32.0.v20240528-0813" url="features/org.eclipse.e4.rcp_4.32.0.v20240528-0813/">
+		</feature>
+		<feature id="org.eclipse.justj.openjdk.hotspot.jre.full.stripped" version="21.0.4.v20240802-1551" url="features/org.eclipse.justj.openjdk.hotspot.jre.full.stripped_21.0.4.v20240802-1551/">
+		</feature>
+	</site>
+</config>

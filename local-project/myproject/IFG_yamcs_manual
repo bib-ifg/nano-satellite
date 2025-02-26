@@ -1,0 +1,9 @@
+UDP Port Simulator
+TM 10015
+TC 10025 
+3350
+Adjust parameter dataLinks dari project
+1. buka direktori ~/{nama_project}/src/main/yamcs/etc
+2. buka file konfigurasi yamcs.{nama_project}.yaml
+3. cek section datLinks
+4. ubah atau tambahkan link sesuai dengan port yang diinginkan
