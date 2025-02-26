@@ -1,14 +1,10 @@
-# directories
-root-project/yamcs-5.10.9/** */
-root-project/yamcs-studio-1.7.6/** */
-
 # Eclipse metadata
 /.settings/
 /.classpath
 /.project
 
 # Maven output
-root-project/myproject/target/
+/myproject/target/
 
 # VSCode
 .vscode/settings.json
